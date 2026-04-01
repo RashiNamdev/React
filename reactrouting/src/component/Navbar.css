@@ -1,0 +1,23 @@
+/* Reset default list styles */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  display: flex;
+  gap: 20px;
+
+  justify-content: center;
+  align-items: center;
+
+  background: #f9f2f2;
+  padding: 15px 0;
+}
+
+
+
+
+
+.acitve-link{
+    border:2px solid greenyellow
+}
